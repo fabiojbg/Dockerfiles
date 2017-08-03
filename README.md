@@ -1,2 +1,2 @@
 # Dockerfiles
-Repository to Dockerfiles
+Repository for Dockerfiles

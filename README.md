@@ -1,2 +1,2 @@
 # Dockerfiles
-Repository for Dockerfiles
+Simple Docker files to help the creation of simple linux distributions
